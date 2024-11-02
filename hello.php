@@ -11,6 +11,9 @@
  $hello = "Hello Angge!";
 
  echo $hello;
+
+$hi = "Sylus!";
+echo $hi;
 ?>
 
 </body>
